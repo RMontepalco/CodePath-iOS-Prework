@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gifyu.com/image/ST1fY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://gifyu.com/image/ST1fY)
 
 GIF created with [Gifyu](https://gifyu.com/?lang=en).
 
